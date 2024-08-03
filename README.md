@@ -39,9 +39,9 @@ git clone https://github.com/6uilhermeTeixeira/CriandoCarteiraBTC.git
   ```
 
 5. Sincronizar carteira Electrum
-- Abri o Electrum
+- Abrir o Electrum
 - Criar nova carteira
-- Nomerar e selecionar a opção importar carteira existente
+- Nomear e selecionar a opção importar carteira existente
 - Importar carteira utilizando Chave Privada
 
 6. Solicitar recebimento de bitcoin na testnet
