@@ -57,11 +57,11 @@ https://live.blockcypher.com/btc-testnet/
 A seguir informações para consulta das 2 carteiras criadas e utilizadas para transacionar bitcoin durante o curso.
 
 ### Carteira 1
--Endereço:  n2uBcaL9JaTYmwYUJLpiALBwBXx4NRhAgY
--Chave privada: cRkp8PhzJz8jR5VbeACGSqjFKaNqdQtN7Qfo844SnkZGniGMdgZQ
--Seed: coffee wife squeeze transfer hen vital hub away school hip rally soda
+- Endereço:  n2uBcaL9JaTYmwYUJLpiALBwBXx4NRhAgY
+- Chave privada: cRkp8PhzJz8jR5VbeACGSqjFKaNqdQtN7Qfo844SnkZGniGMdgZQ
+- Seed: coffee wife squeeze transfer hen vital hub away school hip rally soda
 
 ### Carteira 2
-Endereço:  myNvJSB2HNiR8u6N46TivgicoPEVYFQsZ1
-Chave privada: cVLneGYr8avaaXu711wuuSku69yue2itB7s6ePRz61PUzybao5Bm
-Seed: sun sure normal idea onion cluster submit segment adjust raccoon regret inform   
+- Endereço:  myNvJSB2HNiR8u6N46TivgicoPEVYFQsZ1
+- Chave privada: cVLneGYr8avaaXu711wuuSku69yue2itB7s6ePRz61PUzybao5Bm
+- Seed: sun sure normal idea onion cluster submit segment adjust raccoon regret inform   
