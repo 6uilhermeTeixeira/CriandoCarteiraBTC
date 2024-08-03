@@ -13,14 +13,13 @@ Projeto de criação de carteira BTC experimental na TestNet para receber e tran
 
 1. Instale o Node.js:
 
-https://nodejs.org/pt
+    https://nodejs.org/pt
 
 
 2. Instale o Electrum:
 
-```bash
-https://electrum.org/
-```
+    https://electrum.org/
+
 
 3. Clone este repositório:
 
@@ -44,18 +43,14 @@ git clone https://github.com/6uilhermeTeixeira/CriandoCarteiraBTC.git
 - Importar carteira utilizando Chave Privada
 
 6. Solicitar recebimento de bitcoin na testnet
-- Acessar
-  ```bash
-  https://bitcoinfaucet.uo1.net/
-  ```
+- Acessar https://bitcoinfaucet.uo1.net/
 - Inserir endereço da carteira e clicar em 'Enviar testnet Bitcoins'
 
 7. Consultar explorador de blocos
 
 Consultar explorador de blocos de testnet no link abaixo
-```bash
 https://live.blockcypher.com/btc-testnet/
-```
+
 
 ## Carteiras criadas
 
