@@ -48,7 +48,7 @@ git clone https://github.com/6uilhermeTeixeira/CriandoCarteiraBTC.git
 
 7. Consultar explorador de blocos
 
-Consultar explorador de blocos de testnet no link abaixo
+Consultar explorador de blocos de testnet no link
 https://live.blockcypher.com/btc-testnet/
 
 
