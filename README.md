@@ -31,9 +31,9 @@ git clone https://github.com/6uilhermeTeixeira/CriandoCarteiraBTC.git
 
 4. Rode o gerador de Carteiras:
 
-  -1. Abra o terminal do Node.js
-  -2. Caminhe até o repositório na pasta ..\src no caminho ..\CriandoCarteiraBTC\src
-  -3. Dentro da pasta ..\src rode o comando
+- Abra o terminal do Node.js
+- Caminhe até o repositório na pasta ..\src no caminho ..\CriandoCarteiraBTC\src
+- Dentro da pasta ..\src rode o comando
   ```bash
     node createWallet.js
   ```
