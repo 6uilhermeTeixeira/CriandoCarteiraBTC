@@ -13,9 +13,8 @@ Projeto de criação de carteira BTC experimental na TestNet para receber e tran
 
 1. Instale o Node.js:
 
-```bash
 https://nodejs.org/pt
-```
+
 
 2. Instale o Electrum:
 
