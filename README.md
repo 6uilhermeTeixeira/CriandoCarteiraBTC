@@ -1,5 +1,5 @@
 # CriandoCarteiraBTC
-Projeto de criação de carteira BTC experimental na TestNet para receber e transacionar cryptos.
+Projeto de criação de carteira BTC experimental na TestNet para receber e transacionar cryptos, realizado durante BootCamp Blockchain Developer with Solidity da Binance em parceiria com a DIO.
 
 ## Tecnologias Utilizadas
 
@@ -37,3 +37,37 @@ git clone https://github.com/6uilhermeTeixeira/CriandoCarteiraBTC.git
   ```bash
     node createWallet.js
   ```
+
+5. Sincronizar carteira Electrum
+- Abri o Electrum
+- Criar nova carteira
+- Nomerar e selecionar a opção importar carteira existente
+- Importar carteira utilizando Chave Privada
+
+6. Solicitar recebimento de bitcoin na testnet
+- Acessar
+  ```bash
+  https://bitcoinfaucet.uo1.net/
+  ```
+- Inserir endereço da carteira e clicar em 'Enviar testnet Bitcoins'
+
+7. Consultar explorador de blocos
+
+Consultar explorador de blocos de testnet no link abaixo
+```bash
+https://live.blockcypher.com/btc-testnet/
+```
+
+## Carteiras criadas
+
+A seguir informações para consulta das 2 carteiras criadas e utilizadas para transacionar bitcoin durante o curso.
+
+### Carteira 1
+-Endereço:  n2uBcaL9JaTYmwYUJLpiALBwBXx4NRhAgY
+-Chave privada: cRkp8PhzJz8jR5VbeACGSqjFKaNqdQtN7Qfo844SnkZGniGMdgZQ
+-Seed: coffee wife squeeze transfer hen vital hub away school hip rally soda
+
+### Carteira 2
+Endereço:  myNvJSB2HNiR8u6N46TivgicoPEVYFQsZ1
+Chave privada: cVLneGYr8avaaXu711wuuSku69yue2itB7s6ePRz61PUzybao5Bm
+Seed: sun sure normal idea onion cluster submit segment adjust raccoon regret inform   
