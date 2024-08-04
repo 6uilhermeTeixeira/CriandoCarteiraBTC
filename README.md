@@ -30,8 +30,8 @@ git clone https://github.com/6uilhermeTeixeira/CriandoCarteiraBTC.git
 4. Rode o gerador de Carteiras:
 
 - Abra o terminal do Node.js
-- Caminhe até o repositório na pasta ..\src no caminho ..\CriandoCarteiraBTC\src
-- Dentro da pasta ..\src rode o comando
+- Caminhe até o repositório na pasta '..\src' no caminho '..\CriandoCarteiraBTC\src'
+- Dentro da pasta '..\src' rode o comando
   ```bash
     node createWallet.js
   ```
@@ -40,7 +40,7 @@ git clone https://github.com/6uilhermeTeixeira/CriandoCarteiraBTC.git
 - Abrir o Electrum
 - Criar nova carteira
 - Nomear e selecionar a opção importar carteira existente
-- Importar carteira utilizando Chave Privada
+- Importar carteira utilizando a Chave Privada gerada após rodar o gerador de carteiras
 
 6. Solicitar recebimento de bitcoin na testnet
 - Acessar https://bitcoinfaucet.uo1.net/
