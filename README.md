@@ -1,4 +1,4 @@
-# CriandoCarteiraBTC
+# Criando Carteira BTC
 Projeto de criação de carteira BTC experimental na TestNet para receber e transacionar cryptos, realizado durante BootCamp Blockchain Developer with Solidity da Binance em parceiria com a DIO.
 
 ## Tecnologias Utilizadas
